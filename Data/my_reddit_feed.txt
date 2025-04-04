@@ -1,0 +1,522 @@
+Why is the hiring process so fake nowadays?
+
+Basically the title…
+
+Why has it to be so fake with interviewers expecting you to have some special motivation to work at this particular company and treating it like it's your own startup rather than just as a normal job where you come, deliver results, and go back home? It feels like they expect you to have a genuine care for the company as it's yours, rather than just passion for the field in general and a need to find a job.
+
+To be honest, I have never heard my parents or any older people talk about encountering similar situations in their past. However at the same time I keep encountering this bullshit and fakeness all the time in interviews where I'm expected to show a genuine motivation and passion for a company I barely know anything about.
+
+Why do I need to fake my motivation in interviews to be a successful candidate? Has it always been like this?
+
+The intent from the company's perspective is to find someone who will actually stay with them. One of the hardest parts of recruiting is *retention*.
+
+"I'm just here for the money" to an employer means "I'm going to leave you the moment I find an offer for more money". You're difficult/impossible to retain in the long-term (20% annual raises is unrealistic for them). So companies are just trying to see if you have interests that align with the company so the relationship isn't empty. It makes sense.
+
+But people mis-interpret that question all the time, and think they're supposed to rattle off random BS fun facts about the company that we don't actually care about. In reality they're not really looking for a circle jerk answer like "I'm super passionate about software that approves/rejects insurance claims". They're not looking for genuine care for *just* their company, that's insane, and you're probably doing yourself a disservice if you're answering these questions by circle jerking like that.
+
+It's not about some fake motivation, the question is actually about your *genuine interests*. You can be honest about your *interests*, while still tying it back to the company. What kinds of problems do you like to solve? What kinds of environments do you like to work in? How does that tie back to the company? I get that we're all interested in money, and a stable job, but that's not what the question is about.
+
+For example, take a company that's user-facing: "I really enjoy building user-facing software and find it rewarding". Bam. An answer that can be totally genuine, is vague enough to apply to millions of companies, but specific enough that the interviewer feels warm and fuzzy inside and think they have a chance of retaining you. I've legitimately used this answer before, and have gotten the job. I was moving from an internal-tool at a company to one that's used by real humans so it was the truth.
+
+Or take a super boring company like a car insurance company (just operating off stereotypes here). "I really like building things at scale, and the amount of customers Geico has presents some really interesting software challenges". Again, genuine, vague enough to apply to millions of companies, specific enough to make the Geico interviewer feel warm and fuzzy. I've legitimately used the "scale" answer before as well, and again, I've gotten offers from those companies.
+
+I've never once lied when asked why I want to work somewhere. I know my interests, and I think about how my interests apply to the company. It's pretty easy when you focus on very high-level things like scale, company size, user-base, industry, etc.
+
+It's always been this way (at least for the last 25 years). They want someone who is not just motivated by money, i.e. they don't have to pay you as much money because you're getting other stuff, like fullfilling your dream to make a crud backend for a appointment booking app.
+
+Because they are looking for *PASSION*.  Why are they looking for Passion?  Because they can exploit the passionate.
+
+Welcome to corporate theatre! Apparently wanting to do good work and go home isn’t enough anymore. You have to convince them it’s your life’s calling to join their Slack channel and attend their team-building icebreakers 🙃
+
+“Tell us how badly you want to work here so we can lay you off in two years anyway” 
+
+Shit is a joke
+
+I don't think this is fake. IMO, this is a hard requirement, with the exception of junior engineers.
+
+I want the primary motivation for my team to be the problems we are solving and who we are solving them for. If you don't care about those things, you won't build great software. If you don't care about those things, you'll leave for a 5K raise at the first opportunity. I don't want to hire someone that will be a flight risk in a short term time horizon.
+
+You should be going into the interview with some level of passion for what they do. Throughout the interview process, you need to learn more about them. Interviewing is a two way street. If you find its not for you, then you can bow out early.
+
+If you have stock options, you literally own part of the company. You should be invested in the mission. Given how much time you spend working, don't you want to be proud of what you do? Being invested in the mission leads to a rewarding life. All the employees being invested in the mission is a force multiplier on the business. Its a win win situation.
+
+If you want to work for a company and not be passionate about what they do, find a company that's just trying to keep the lights on. Or go to short term contract work. If you want to work at an exciting company with high growth potential, you need to care.
+
+It's been like this for at least 13 years, unfortunately.
+
+Jobs are fake, companies are fake, the whole economy is fake. Play the game or get left behind.
+
+Um...always was, my dude. Everything you're describing was exactly the same when I started 20 years ago.
+
+Because there probably are candidates who are both talented and genuinely passionate about the company. Why would they not look for them?
+
+what was your “welcome to the big leagues” moment?
+
+for me it was pushing a performance optimization to 1.3 billion users. felt like i’ve come a long way from learning linked lists in C. 
+
+“If you can’t get this released by next week, it’s gonna cost the company tens of millions of dollars. Counting on you!”
+
+When I accidentally charged several thousand in AWS fees and no one even blinked
+
+My first job, they told me to pick out the computer I wanted. I was debating how frugal to be and started asking questions and my manager basically recommended a maxed out macbook pro.
+
+product launch call. late evening, because something blew up and it was all hands on deck. senior engineer screen sharing and everyone trying to figure out whats not working for an hour or two. notice a tiny detail in JSON output that didn't match up. afraid to say something at first because im a baby dev. finally blurt it out. end up saving the day. dont afraid anymore.
+
+I spent most of my 20s without paid sick leave or health insurance. Got my first tech job in my late 20s and took my first paid sick day ever. No promotion or technical achievement felt as transformative as that moment, tbh.
+
+But, on the technical side, solving a complex, intermittent bug no one on my team, including some very talented devs much more senior than me, could figure out. All I did was thoroughly read the docs when researching an unrelated issue, lol.
+
+On the career side, working with people who have wikipedia pages.
+
+“No, you can’t spend a week of your time to compress that Mongo collection by dropping unused data to save $160k/year, we have more impactful things for you to work on.”
+
+I paraphrased a bit but that’s a real conversation I’ve had with my manager.
+
+The moment for me wasn't even joining a big company. It was the first time talking to other programmers in my local sphere and learning that most web development is NOT just making internal apps and e-commerce sites for small-medium businesses.
+
+It was like unlocking the entire map of an open world game when all you have known for the first 10 hours is a small fraction of it
+
+Our tech lead left the country to deal with family stuff, and never came back, and I took over the team to esnure delivery. I've served as a tech lead before, but it was just a big step up: larger project, better team, more spend, bigger deliverables, et cetera. The next months were pretty intense, but we ended up delivering, and even after sending us a replacement, I'm still very much the lead.
+
+"Can I hack it big tech?" was always something I wanted to know, especially with all the stories around about aggressive performance management and people complaining on blind. Today, I know the answer.
+
+I got asked put in some work for my company’s migration from bare metal to AWS.  Before long O had just sort of taken it over because the VP that was keeping tabs on the project was too just with other stuff and he figured I had it in hand.  So ai ended up coordinating the whole project and in the end we flipped the whole application portfolio over to the new cloud infrastructure on a Saturday morning in an event that ultimately felt almost anti-climactic.
+
+This was from when I was working at my new grad job. I've already left work, and I'm at home around 5:30pm on a Friday, and had poured myself a nice glass of whiskey and was preparing to enjoy some video games for a chill night-in.
+
+Then I got a call from the company's support team about a production issue with my teams app. I don't want to get too into details to avoid doxxing myself, but they essentially let me know that there was an issue that was preventing people in the field from doing anything digitally, and they were having to manually file paperwork by hand to be compliant with the law. Obviously that process is significantly slower, and error prone, versus everything being done mostly automatically via the app.
+
+It was costing us easily 5-6 figures for every hour this issue persisted via the delays it was causing. Time is very much money in the industry I was in.
+
+I was a pretty fresh new grad, and an issue of this scale, and at this cost, was a very abrupt wakeup call.
+
+But at the same time, while our team took the issue seriously and tried to retro to ensure it wouldn't happen again.... it wasn't a big deal to the company. 5-6 figures down the drain didn't even show up on the radar of anyone important. The scale of money companies deal with isn't something I can fathom as an individual.
+
+I think getting a MSCS was a bad idea. Feel like a fraud.
+
+I graduated with a masters in structural engineering in 2020. Worked in the industry since. In late 2022 I realized i legitimately hate structural engineering and its horrible pay, WLB and benefits.
+
+I decided ti do a MSCS at UT since I asked for a lateral transfer and had an office in Austin, which allowed me to go to campus part time. 
+
+I graduated with my MS but man I feel like a fraud so much. I feel like I’m missing out on a ton of the fundamentals. I can only code in Python. I have used C# but I’m very slow at it. 
+
+Stuck at a crossroad and honestly know for a fact I can’t do structural anymore. I’m debating about quitting and getting a retail job because it has impacted my livelihood. 
+
+The CS market as we all know is not good. Top that with the competition in it, I just see no hope for myself. Really need advice 
+
+Current salary is 94k with 4 yoe for structural in LA. My 401k is 2%, no bonus “, 15 days pto. 
+
+You have a masters from UT, which is a top 10 program – you’ve basically certified yourself as a problem solver. If you can learn graduate level computer science, you can learn C#. Like anything else, you’ll need to put in some time, effort, and practice before you feel confident in this skill. 
+
+Also, which classes did you take? The curriculum should have exposed you to languages beyond Python too.
+
+You quit Structural Engineering, now you're quitting CS and you're fooling yourself if you think you won't find an excuse to quit a retail job as well.
+
+A Masters in Computer Science is not meant to teach you how to code, but to use your knowledge of computer science to solve problems.  If you want to learn to code pick up a book, take specific coding courses for your language of choice, etc.  The MSCS is meant to dive deeper into a speciality within computer science, not expose and teach you the fundamentals, this would have and should have been covered in your undergraduate studies to give you a solid computer science foundation, and breadth of knowledge across the massive field of computer science.
+
+If you are good at what you do, you could always develop new software to solve a problem based on input to produce the most optimal output.  These skills apply to every industry that uses and develops technology.  
+
+Think back at when you were doing structural engineering, what sucked about the work?  Can you create new software that removes or fully automated the pain points you were having and sell it yourself on the market or get funding to build a company to do this or partner with someone?
+
+Can you take your skills and get a SWE/SDE/Computer Scientist job building new technology?
+
+[removed]
+
+>I have used C# but I’m very slow at it.
+
+Concentrate on this.  C# is a great language.  Spend a few months only doing that and keep grinding until you get it.
+
+Don’t worry, the juniors at my company with bachelors and masters in CS have essentially no practically useful knowledge. You have the certification and the ability to learn things, that’s all you need
+
+Masters and PhD in Computer Science are for those interested in academia. For software development, you would have benefited more from a Bachelor's degree.
+
+Software development can be self-taught. You would need to find courses online and follow along. Or, join a coding boot camp to give you a crash course on software development.
+
+If you are not baiting what you really need is a therapist. This subreddit is ridiculous.
+
+Fired Today. Just Kinda Relieved. What’s next from here?
+
+This was my first job out of college. I don’t want to reveal too many details about it. So, I don’t dox myself. 
+
+Some change I made during the weekly sprint ended up in production and caused an outage. I fixed it before the morning was over but it was apparently one mistake too many. When I got back from lunch my access was restricted not terminated but heavily restricted. I kind of had the keys to the kingdom before this. So, I knew the writing was on the wall. 
+
+My boss called me into his office at the end of the day and said my contract was terminated. He looked super broken up about it. Which honestly surprising because I always thought he disliked me. But he was visibly teary eyed and said he tried to keep me on as hard as he could. I thought that was a very kind thing to do. 
+
+I think he was expecting more from me but I felt relieved. It’s only way to describe what was feeling at that moment. No more looming deadlines. No more flood of emails in the middle of the night. Looking back it kind of felt like the warden had called me into his office to say I had made parole. 
+
+I am so tired. I hadn’t taken a weekend off in four months. I’ve essential been doing nonstop overtime for months before that anyways. It was effecting my health. My apartment is a total mess. I was neglecting spending time with my family. I was having nightmares about my mother dying. I was so worried because she’s been sick and I haven’t been able to spend anytime with her. We’ve always been close and I don’t know what I’d do without her. 
+
+The job used outdated tech stack. So, my technical skills were actually deteriorating. Despite all the work I was doing. We were always on call 24/7. You could expect pms our calls at all hours. They were making more and more restrictions on breaks and Work From Home. A new message had just came into the chat about an even stricter dress code we were suppose to be following right before the axe fell. I am pretty sure they working up to them having to wear suits in the office. Honestly, it felt like a good time to go. 
+
+The job paid pretty well. So, I have a lot of money saved up.  I always lived within my means and saved up thousands every month. Lucky my lease is over next month. So, I can move back in with my parents. Honestly could be way worse. I am sure the dread will kick in once I get a chance to catch up on my sleep. 
+
+That being said any advice would be appreciated. This is the first time I’ve even been let go. Big one being what they heck do say in job interviews about this when they ask about my last job? 
+
+
+Given you have the savings + the option to move back in with your parents, the first thing I would suggest is taking a break.
+
+Sounds like you've been in an extremely toxic company with insane work hours. Fuck all that noise. You need a break. Don't even think about your next move for a second. Take a complete and total break from anything related to work.
+
+After that you can think about prepping and what not. But for now, just take that break man. Even just a week or two totally off will do wonders for you. I promise.
+
+Bro.  Old tech stack, no weekend in 4 months? I think this is a blessing in disguise. Take it as a learning experience and find something better.
+
+It’s actually really good that you saved up and Sometimes it’s good to think it as things happen for a reason and more importantly for the better. Wish you all the best.
+
+I've been laid off two times, and both times all I felt was relief and joy. The companies were asking way too much from my team and working us beyond standard work hours constantly.
+
+Both times I took a much needed break. I suggest you do the same.
+
+Ahhh I am so sorry. Spend some time with your mom. Take a weekend to organize the apartment. Focus on recharging and maybe doing some simpler leetcode/BFS/DFS/string traversal problems. Health, family, recharge should be the priority, maybe get back into exercise hobbies or cooking/baking.
+
+[removed]
+
+Dont worry. Looks like it was meant to happen for your own good. Faced a very similar situation last year, I wasnt let go but my health deteriorated to a point where I could not work there anymore and ended up quitting (was wheelchaired out of the airport while travelling back home). Very unplanned and uncertain, but guess what, I didnt even for once regret leaving. Set myself some standard for what my expectations were for my next job, learnt new tech stacks since the work I did at my old job had absolutely nothing to do with my degree. I am doing much better now in my life. So trust me it will all turn out to be well at the end, just have patience and take proper rest before so that you are fresh and healthy for your next job :)
+
+He doesn't care about you. He just doesn't want you to sue.
+
+Masters
+
+Don't Get the Argument, "You'll Need X Less Developers"
+
+I’ve never understood this argument. People claim that AI 'supposedly' makes them 10x more productive, so instead of needing 100 developers, you only need 10. But to me, all that means is that 100 people can now do 10x more work. Software is infinitely scalable, there’s no scarcity of resources. 
+
+It's marketing. AI needs to earn money for all the investors who created a solution without a problem to solve. 
+
+"You'll be able to hire less people" is catnip to these new MBA-types who want to run companies as lean as humanly possible.
+
+Match made in hell.
+
+Our product team has 1,000 ideas they want to do every year and the constrained resource is always engineering bandwidth. Companies have two options with increased developer productivity:
+
+
+1. Keep engineering resources the same, and benefit from increased productivity in the form of more feature releases
+
+
+2. Keep feature releases at the same velocity/quantity and lower engineering resources. 
+
+
+
+There’s no right or wrong answer, it’s simply a matter of business priority.
+
+So you're saying just use AI and produce 10x as much software? If everyone at my company started outputting 10x as much code, we would reach the point where no one understands wtf our code does 10x as quickly
+
+It's about having an excuse to cut costs, which will give the current batch of CEOs good numbers over the next few quarters. That's what most modern investors, and therefore boards of directors, and therefore executives care about.
+
+The product OpenAI and other AI firms is selling right now is the illusion, and therefore justification, of cost cutting without spooking investors into thinking the execs are killing the golden goose.
+
+> there’s no scarcity of resources.
+
+Even if this is true, consumers are the limiting factor. What is the point of 10x more software if no one is buying it?
+
+> Software is infinitely scalable, there’s no scarcity of resources.
+
+OP - if this is true, why don't you **personally** have 1000 devs working for you to produce software? You'd for sure turn a profit, because the market is infinite and there's no scarcity of resources.
+
+Is it that you might not be able to find enough customers to buy all that software you had built and go broke from paying all those devs? Because, the market is actually very finite, as were your resources to bankroll them?
+
+Same thing.
+
+>People claim that AI 'supposedly' makes them 10x more productive, so instead of needing 100 developers, you only need 10.
+
+Yes .... for the same sized business 
+
+If you don't decrease the number of workers and all of them become 10x more productive then your business size will increase. Instead of five you will be handling fifty clients etc.
+
+It if you keep handling 5 clients you will need fewer people to do so
+
+
+I dont agree with it but i dont think theres any major confusion or paradox in it.
+
+And no, programming and software dev isnt scalable that you just add more people and it becomes better. Like Microsoft can't hire more and more people and get bing to be the number 1 search engine
+
+"10 developer can do the work of 100!" Sure. But you need the other 90 to clean up the garbage code ai produces.
+
+Alright let's extrapolate off that. Infinite software does not mean infinite demand. If you have more supply than demand? Software becomes cheaper = Less profitability = less jobs.
+
+Also, the proverbial pie can't grow infinitely large. There are finite resources (money) in this world and you think that software is an infinite money glitch.
+
+The most likely scenario is companies will do the best of both worlds: cut jobs but keep enough to maintain productivity gains compared to pre "AI". Hypothetically if AI can augment a developer 2x, they can just cut 25% of the workforce but maintain 1.5x the productivity gains.
+
+There's this assumption that infinite productivity means infinite profit. No. There always comes a saturation point where more productivity doesn't get you more profit.
+
+Maybe it's lack of imagination but I feel like we will eventually reach a point where all the software will have been created.
+
+I mean...How many more social networks can we handle? Mobile games? Medical tools, etc. Each categories of software that comes to mind seems like it's reaching a point of maturity where innovation opportunities are getting smaller.
+
+So no, I don't think there is infinite demand for software which means yes, 10x increase in productivity is concerning. Now, does AI deliver on that promise? I think this is highly debatable. In my experience it doesn't.
+
+Name and Shame: supplyhouse.com
+
+https://i.imgur.com/zB1FEGa.png
+
+US-based company only hiring Indians so they can pay them a shit wage.
+
+WITCH companies pay like twice the upper band of that range
+
+That salary is basically a PhD stipend.
+
+So.... off shoring? We're gonna have to name and shame a whole lot more companies than Supply House.
+
+IMO name and shame posts should be related to personal experience with a company. Seems like you just ran across a random job listing?
+
+India is way lower COL than US. It's not surprising that a lot of companies are offshoring. This isn't anything new. 
+
+The risk is that the quality is often unpredictable. Having worked with offshore employees, I can say they range from overqualified to how did they even get hired?
+
+With that salary they wouldn't even qualify for H1B min wage. Looks like they're offshoring to India.
+
+hm if only we could find who runs these places and give them a piece of our mind
+
+Are you crying about offshoring? I don’t really get this post. The job is obviously not meant for you unless you live in india
+
+[removed]
+
+Why wouldn't you hire indians if they'll do the job for a shit wage?
+
+I want to write code for scientists because science is cool, but I don't want to be poor
+
+I'm halfway through my computing/computer science/programming thing. I get a year of work experience/internship and I've been doing it with a large statistics agency. I've been writing internal applications and it's a delight. 
+
+When I'm finished school, is there a good avenue towards becoming some scientist's code guy? I have a passion for physics and chemistry but the prospect of tech bro money reeled me into the programming thing. I'd love to somehow be involved with scientific research (that isn't computer science research)
+
+Anybody have any advice for me? 
+
+I think the reality is that it more often goes the other direction? Like, people start out in the hard sciences, and at some point in their careers figure out "oh I should just learn how to code" because, bluntly, getting a Ph.D. in astrophysics or nanophotonics or whatever is a hell of a lot harder than figuring out the fairly modest Python (or whatever) you're going to need to be your own Code Guy.
+
+Science funding is hard to come by, and literally no one's getting rich in the sciences,\[0\] so being able to do that stuff on your own is a huge win.
+
+\[0\] And also maybe now your country is actively hostile to the existence of your profession
+
+Thought about bioinformatics? My wife does that and seems super cool. Lots of cool applications within biology for programming / machine learning.
+
+Some research groups hire software engineers. Look for jobs in universities, and look into research software engineering. I work as a hybrid sysadmin/developer for a group within a university that archives scientific data.
+
+i do this. youll need a ms or phd in science or engineering. a cs background means you have no domain knowledge. and frankly, most engineers and scientists can code for themselves decent enough.
+
+You can develop systems for a research institute, that is my current position.
+
+I was a branch cybersecurity manager for a science company with a huge staff of devs working hand in hand with PhDs of various types, especially Physics.  These places exist.
+
+I make $125k as a relatively junior dev. This is “poor” relative to, like, big tech salaries and slightly less than median dev salaries for my area, but I enjoy my work (and I am obviously very, very far from “poor”). I don’t think software development for science will make you “poor”. 
+
+It helps to have a particular specialty beyond “physics and chemistry.”
+
+I worked in bioinformatics for years; the reality is after a few years you will realize that you are doing the same type of work as any other CS job only using shittier tools/frameworks, good chance on smaller systems with smaller data, and will not be doing any of the heavy lifting in terms of "science." 
+
+If you want to be driving some sort of research and thinking deeply about scientific problems, you will need at least an MS in a scientific discipline but more likely a PhD.
+
+Even in our digital world, most biotech companies are driven by wet-lab researchers and I have worked with PhD's in computational bio and bioinfo. that are just there to support the wet-lab PhD's doing the "fun" stuff and driving projects.
+
+If it is important to you to be supporting organizations doing "good" for society or it just tickles you to be on the peripheries of science, then go for it. Biotech does tend to be filled with people that are pretty kind (very low levels of assholery) and work-life balance seems to be pretty high, in my experience.
+
+Lots of universities, hospitals, and other research institutes would love to have someone with programming/stats experience. There are many overlapping job titles it could fall under, so thoroughly explore the listings (data analyst, programmer, research assistant, data engineer, statistician, etc). 
+
+
+If you're in school, try to find a professor who's lab you can work in. Or do summer research internships at universities. 
+
+
+
+I get paid about ~100k to do data science stuff for an academic research group. I had an offer for ~130k at another group, but unfortunately the location wasn't ideal. So you can definitely still make good money. 
+
+
+If you're in the US, the funding is a mess right now so it'll be harder. Though many institutions do get private funding so it's not all gone. 
+
+Find an open source project that scientists use and help maintain it.
+
+[USA] Unemployed since graduating with a degree for computer science last year. Anything else to do other than spray and pray applications and attempt to contribute to open-source projects?
+
+Hey all, I graduated last year and am struggling to find a job. I've applied to at least a thousand jobs at this point and have gotten a singular interview (an IT job that was paying minimum wage). I've applied to everywhere in the country at this point, both in-person and remote, and also applied for state-level jobs (which I was told were a cakewalk to get but I guess I'm just stupid)
+
+I've been thinking about doing a Salesforce certification because I've HEARD from people irl that Salesforce devs are in-demand. I'm not really too interested in doing anything Salesforce related however as the majority of my personal projects and the work that I have enjoyed doing is with data analysis.
+
+I've heard that my experience is pretty par for the course these days (I have friends who graduated a year before me that STILL don't have a job yet) but looking at the state of these jobs is really depressing. 
+
+I've had "work experience" at a 6 month internship at a well-known chip company, but that hasn't helped me at all so far.
+
+Also doesn't help that all the entry level roles I'm seeing ask for years(???) of professional experience.
+
+I've "networked" with alumni (that are currently working) have gotten referrals from friends who currently have jobs, nothing. I've got references and a resume that isn't terrible.
+
+Just wanted to get that out of my system, I'm tired of being broke after getting the piece of paper that was supposed to help me get a "good" job.
+
+if anyone is looking at doing a computer science degree, don't bother unless you actually love this shit. I did it because it was "easy" compared to what I actually wanted to do (Biology) and was told to "learn to code."
+
+You could also try building your own applications, and learning how to deploy them.
+
+If you haven't already, build your own task tracker or Twitter clone. 
+
+Maybe learn a thing or two about building out an application in an MVC model on aws, try to use their free tier. 
+
+
+That alongside practicing L33tc0d3 will give you and edge above just having a good GPA.
+
+Right there with you man
+
+Brutal.
+
+
+Do you get any responses other than the one interview?
+
+post your resume
+
+Post your resume.
+
+You could try to boost your rank in Counterstrike
+
+Consider getting some certifications, azure or aws - seems like more and more employers are looking for cloud experience even with junior and entry roles. Could also look into low code/no code solutions like Microsoft power platform - a lot of companies are trying to go that route - it’s not as sexy as traditional development/software engineering  but it’s in the same ball park. Could also look at getting Security+ certification, it’s required for all federal work in the US regardless if the federal workforce is at risk! It could be a potential employment opportunity since not everyone wants to go through the trouble of getting that cert (security+ is kind of a pain and you can’t “fake” through it)
+
+[removed]
+
+[removed]
+
+Wow, idk who told you it was easy but they lied to you.  That's never been the case.  Regardless of current economy being shat on by Trump.  Being good at software engineering has always been a grind that was mostly just for nerds who had the determination to sit at computers for unhealthy lengths of time.  Not too late to get into biology though job hunting in that field isn't a cakewalk either unless you get into nursing.
+
+Got blindsided by feedback from CEO at my internship, I don't know if I'm cut out for this field
+
+I've been interning at a small company as an embedded SWE for about a year. I'm graduating in a month so I pulled the CEO aside and asked him if I'm eligible to continue working there full time after I graduate.
+
+He basically ripped me a new one, saying he likes me as a person but I'm not a team player. He said that I'm quiet, nobody at the company knows what I actually do, and that I need to start "thinking outside of the box" more if I want to work here. He said that there isn't much work at the company lately, and that I'd have to prove my worth over this next month until I graduate. 
+
+I thought I was doing good, this completely shattered me. I'm somewhat introverted at work, but when we're working on projects or I get assigned tasks, I always got stuff done in a high quality and timely manner. We finished the main project I've been working on a couple months ago, I was the main developer for the module and I thought I did it very well. Even the CEO did a code review and said my code looked really good. Since then however I haven't been assigned any specific project or task, so it's been difficult for me to self start. I've been trying to keep myself busy, understanding the code base as well as reading documentation, asking others if there is any work they need help with, asking others what they're working on and if they need help. 
+
+The reason I'm surprised is because I regularly asked my manager (maybe 1-2 times a month) if there's anything I'm not doing that I should be. I send him regular updates pretty much at the end of everyday, saying "if there's nothing specific you'd like me to work on I'll be doing XYZ..", he says I'm doing well and to keep doing what I'm doing. Then I get blindsided by the CEOs response!
+
+I don't know what to do. I'm questioning if I'm cut out for this. A lot is at stake here, this was my last chance at being employed, I'm 600+ applications in and only 2 interviews. 
+
+Your company sucks, your CEO was in a bad mood, it doesnt mean you suck.
+
+Go elsewhere and don't let one person's shitty opinion dictate your life.
+
+Unless you are dependent on landing this job(bills, etc). I would move on. This is crazy especially out of nowhere. If you need the job and manage an offer from them, start working on your resume and applying. Leave them high and dry. I know the market is tough, but you deserve respect in your workplace. This includes prompt communication when something is wrong, not a random blowup/teardown.
+
+>but I'm not a team player.
+
+Failure of management to not correct this much sooner - if at all true.
+
+>He said that I'm quiet,
+
+Absolutely nothing wrong with that.
+
+>nobody at the company knows what I actually do,
+
+Complete and utter failure of management on all levels.
+
+>and that I need to start "thinking outside of the box" more if I want to work here.
+
+He could only reach that conclusion if he did know what you were doing.
+
+>He said that there isn't much work at the company lately, and that I'd have to prove my worth over this next month until I graduate.
+
+Oh no. fuck that "prove my worth" shit with a cactus.
+
+You do the job that you're assigned to do. As an intern, there should be tons of feedback at every opportunity.
+
+"prove your worth" just means they haven't been paying attention, and they are trying to low-ball you: Work more for less, and you might get a job?
+
+>Since then however I haven't been assigned any specific project or task, so it's been difficult for me to self start.
+
+Did you ask for more work?
+
+>I've been trying to keep myself busy, understanding the code base as well as reading documentation, asking others if there is any work they need help with, asking others what they're working on and if they need help.
+
+you need to ask the people who are directly responsible for you to give you new work!
+
+>I don't know what to do.
+
+What you should always have been doing: Look for other opportunities.
+
+Even if they wanted to keep you, had no complaints and were willing to pay you well, you should be keeping your options open, and get an idea if your market value.
+
+Company is going to shit and you’re a soft target. 
+
+Don’t take it personally. You’ll have better prospects for sure and CEO is going to do the same shit elsewhere because they’re probably just a general ass. 
+
+CEO saying there isn't much work is a bad sign anyway. Maybe the company just has no idea what to do with an intern and was hoping for you to be a cheap jr dev they could abuse instead of the student you are.
+
+Bro, having an intern as a main developer is wild. That alone would be for me to jump ship.
+
+The CEO is a sociopath.
+
+Research the Gervais Principle.   The CEO embodies that.
+
+I'm going on that everything you stated is accurate.
+
+First thing to understand is there is a HUGE variability in quality of managers and CEO's. There are very good ones but there are an awful lot mediocre or just outright bad and dishonest ones. More than you would expect, and including ones with unjustifiably inflated egos who relish at tearing others down to feel better about their own inadequacy. Technical and managerial meritocracy often is not what gets people up the ladder.
+
+I would say you just met one of these people. Don't take it personally. They'd do this to anyone. If your manager was CEO it sounds like you would be just fine for the company.
+
+Understand that as competent as you are technically there will be people, groups and companies that are just not a good fit for your skills and personality. That's their loss but so it goes.
+
+Get a good reference from your manager. That weighs a LOT to future employers since he knows your work and has worked with you. It's tough out there. It's tough for all of us. But you're just starting out. The world will be very different in 20 years and there is a place in it for you.
+
+Best of luck with everything.
+
+>he likes me as a person but I'm not a team player. He said that I'm quiet, nobody at the company knows what I actually do, and that I need to start "thinking outside of the box" more if I want to work here. 
+
+First of all, fuck this guy.
+
+Secondly, no - if you're quiet, you don't need to be loud. The world needs quiet and loud people. 
+
+Thirdly, why on earth would you be expecting an *intern* to think outside the box? They're literal interns, they're supposed to be learning what the hell the box is. 
+
+Lastly - talk to your boss again. Tell them you have this conversation with the CEO and how they went. Here's what I can tell you - a lot of CEOs think that they know everything and have the best ideas. A lot of CEOs actually know very little and have mostly horrible ideas. The person that matters is your manager in terms of getting valid feedback.
+
+I'm writing this under the assumption that everything you said was accurate. First, I would talk to your manager and just see what he has to say about this feedback. Does he think it's accurate? ARE there things you could be doing better? If this is your last month with the company then hopefully you can at least get good feedback that you can use for your next job.
+
+
+
+That being said, the things your CEO are complaining about are all failures of management. As an intern, or even a junior engineer, you're not expected to be a self starter or to worry about self promoting. As a manger, if my Senior Engineer is sitting and twiddling his thumbs, then he's doing something wrong. If my junior is doing nothing, then I'm doing something wrong.
+
+Landed My First Tech Job in 2025 – Not What I Expected, But Exactly What I Needed
+
+
+Just wanted to share my journey landing my first job in tech after finishing a boot camp, because I know how brutal the job market is right now—and maybe my story can help someone else feel a little less alone.
+
+I wrapped up a full-stack coding boot camp in June 2024 (based in my country), and I was lucky enough to jump right into a 4-month contract-to-hire role. I loved it—but thanks to budget cuts, I didn’t get brought on full time. That was a tough hit, but I kept going.
+
+Over the next 6 months, I applied to over 350 positions. That’s not a typo. I barely got interviews. And when I did, they definitely weren’t for junior dev roles. I know a lot of us come out of boot camps dreaming of deploying APIs, but the 2025 market isn’t really handing out dev jobs like candy. I was told by many people I network with that their company is simply not considering people who don't have a computer science degree. 
+
+Even that, I still know people with CS degree are still struggling. 
+
+So I had to shift.
+
+Here’s what changed the game: I stopped trying to force myself into roles that didn’t want me, and I started looking at what I already had.
+
+I already had a bachelor's degree in media and video production. I worked for years as a video editor and in the advertising world. I was burnt out by the end of it, but I had a lot of client-facing experience and I understood tech—just not in the way job titles like to see.
+
+About two months ago, I overhauled my resume and LinkedIn to focus on technical solutions, client success, and transferable tech skills from my video background. Suddenly... people noticed. I started getting interviews. Out of those 350+ applications, I had about 7 interviews—almost all of them for technical support engineering or solutions-related roles. Most of them went to the final round.
+
+And last week, I finally got an offer. A real tech job at a massive cyber security company!
+
+It’s not a pure dev job. But it’s tech-adjacent, it pays well (67k take-home)  and it uses both my new and old skill sets. It’s a role where I can grow, keep learning, and pivot again if I want to later. And most importantly: I’m in the door.
+
+One thing that really helped me: I stopped applying to every tech job under the sun. I know it feels like you need to cast the widest net—QA, junior dev, data analyst, support, solutions engineer, all of it. But once I leaned heavily into one direction (for me, that was technical support engineering), I was able to sharpen my messaging and actually connect with the right opportunities. Don’t spread yourself so thin you blend in everywhere and stand out nowhere.
+
+Through this journey, I also realized something huge: I’m really interested in developing solutions—what I’d call solutions engineering or even presales. The role I landed actually leans in that direction, and I’m excited because it still requires web development skills, which I picked up during the boot camp and my 4-month contract role. So it feels like a perfect hybrid of everything I’ve learned and everything I’ve done before.
+
+And finally—this might be the most important tip I can give: stop just clicking "apply" on LinkedIn. It almost never works. What actually moved the needle for me was reaching out directly to people at the company—recruiters, team members, anyone relevant. Internal resume forwarding is incredibly powerful. You’d be surprised how many people are willing to pass your name along. 
+
+If you’re still searching, here’s my advice:
+
+-Use what you already have. Don’t ignore your past career—it might be your secret weapon.
+
+-Be open to tech-adjacent roles. Dev jobs are scarce right now, but there are tons of other paths in.
+
+-Tailor your resume to the job you’re applying for. A generic “junior dev” resume is not going to cut it for every role. Many recruiters and people I networked with would question if I was a developer, why was I apply for technical support engineering? Put yourself in their shoes. 
+
+-Focus your energy where you shine. Find your lane and double down. 
+
+-Network like hell. Reach out to real humans. Get referred.
+
+
+ 
+
+taking a full-stack dev bootcamp in 2024 is wild, unless the market in Israel is drastically different.
+
+This is excellent advice, to me it seems like the strategy is now to find jobs where you can internally transfer to a pure developer job or anything else of your choosing (I also think Solutions Engineering is really underrated and is a great path). Leverage your strengths first and show a willingness to learn and be humble. I'm no coding savant nor do I code during my free time unless if I have to refresh in short bursts, but I found that if people give me wiggle room to learn then I do much better as opposed to the company being cutthroat from the get-go.
+
+I do want to press you on why you think casting a wide net is not preferable. For positions especially like Solutions Engineering, they prefer people to have some technical acumen, which can be gained from helpdesk, IT, QA, DevOps, SWE/Dev roles, and even having a strong university background in computer science.
+
+This feels ai written
+
